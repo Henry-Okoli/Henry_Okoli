@@ -1,6 +1,7 @@
 # Henry Okoli
 #### Edinburgh, Mid-Lothian EH14 4HT - +447405264747
 #### Email: henryokoli8@gmail.com
+My linkedIn: [**Linkedin**](https://www.linkedin.com/in/henry-okoli-a89739198/).
  
 ## Data Scientist
 
@@ -41,3 +42,5 @@ _ Worked as the DHIS2 National help desk, backstopping to provide user support f
 
 ### Volunteer 
 #### Class Representative 	          							October 2022 - till date 
+
+
